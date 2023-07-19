@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CustomClasses
 {
-    
+    //matts custom class
     internal class Astronaut : Person
     {
         bool SpaceSuit;
